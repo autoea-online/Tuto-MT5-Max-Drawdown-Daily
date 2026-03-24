@@ -107,7 +107,7 @@ Le Max Drawdown Bot protège contre la plus grande menace du trader :  **lui-mê
 
 | # | Tutoriel | Concept | Lien |
 |:-:|:---|:---|:---:|
-| 1 | Stop Loss Automatique | Protection initiale | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-Stop-Loss-Automatique) |
+| 1 | Stop Loss Automatique | Protection initiale | [GitHub](https://github.com/autoea-online/Tuto-MT5-Stop-Loss-Automatique) |
 | 2 | Take Profit Automatique | Objectif de gain | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-Take-Profit-Automatique) |
 | 3 | TP Partiel Automatique | Sécuriser une partie | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-TP-Partiel-Automatique) |
 | 4 | Trailing Stop Automatique | SL suiveur | [GitHub](https://github.com/VOTRE_USER/Tuto-MT5-Trailing-Stop-Automatique) |
